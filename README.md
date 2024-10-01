@@ -2,8 +2,16 @@
 - Create React App
 - Configured TailwindXCSS
 - Header
-- Login Form
-
+- Routing Of App
+- SignIn Form
+- SignUp Form 
+- Form Validation
+- useRef hook
+- FireBase Setup
+- Firebase deployment
+- Create SignUp user acc in firebase
+- IMplemented SignIN api
+- Setup redux store
 #Features
 - Login and signup page
     - SignIn/ SignUp page
